@@ -1,0 +1,6 @@
+
+
+let name = "Sakshi";
+
+console.log("Hello, " + name + "!");
+console.log("Welcome to JavaScript Programming.");
